@@ -293,7 +293,7 @@ h1.heading {
     color: var(--secondary-color);
     translate: 8px;
 }
-.menu-shop a:hover {
+.menu-shop li a:hover {
     color: var(--primary-color);
 }
 .menu-shop .price {
